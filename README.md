@@ -7,7 +7,7 @@
   - write specifications (where we can't understand from the first reading what the function is doing)
   - distribute functions into files (at most 10 functions per file) 
 - We will use github projects for management. 
-  - You will see if you go into [Projects](https://github.com/TheXGeneral/TestingRepo.git/projects) tab. 
+  - You will see if you go into [Projects](https://github.com/TheXGeneral/TestingRepo/projects) tab. 
   - There, go on the project that has the same name as you predefined branch that you are working on. 
   - There you'll see multiple columns(To do, Doing, Done) with card looking elements. You can move those elements and show everybody what are you working on.  
   - Try to have only one task in doing in the same time 
