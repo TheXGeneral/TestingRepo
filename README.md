@@ -1,4 +1,4 @@
-# TestingRepo
+# TestingRepo- Just for learning purposes. Will be deleted afterwards
 
 # Rules
 - Use clean code principles :
