@@ -7,12 +7,12 @@
   - write specifications (where we can't understand from the first reading what the function is doing)
   - distribute functions into files (at most 10 functions per file) 
 - We will use github projects for management. 
-  - You will see if you go into [Projects](https://github.com/TheXGeneral/Unihack_before/projects) tab. 
+  - You will see if you go into [Projects](https://github.com/TheXGeneral/TestingRepo.git/projects) tab. 
   - There, go on the project that has the same name as you predefined branch that you are working on. 
   - There you'll see multiple columns(To do, Doing, Done) with card looking elements. You can move those elements and show everybody what are you working on.  
   - Try to have only one task in doing in the same time 
   - After you finished a task, push you code into a branch, await for merge and then, move the task into the Done column. 
-  - Don't do more tasks on a single branch. We don't want kebab branches (cu de toate)
+  - Don't do more tasks on a single branch. We don't want kebab branches :))
   - Name you commit and your branch after the task that you done
 - There is a rule in programming. Main branches need to always work. If your code has errors that make code to crash, don't request a merge into a predefined branch 
 
@@ -24,7 +24,7 @@
 
 1. Clone a repo 
       ```
-      git clone https://github.com/TheXGeneral/Unihack_before.git
+      git clone https://github.com/TheXGeneral/TestingRepo.git
       ```
       - That link is obtained by clicking `Code` button and selecting https link. This will display a link used for cloning.
       - For cloning a repo. right click in the folder you want to have your repo. In the menu that poped up, select git bash. A console simillar to cmd will pop up. put the command in it.
